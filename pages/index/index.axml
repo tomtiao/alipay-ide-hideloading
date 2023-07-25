@@ -1,0 +1,6 @@
+
+<view>
+  this is a blank page
+</view>
+
+<button size="default" type="primary" onTap="handleTap">请求并跳转</button>

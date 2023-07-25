@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/content/index"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  },
+  "behavior": {
+    "requestReferrerStrategy": "page"
+  }
+}
